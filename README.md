@@ -2,8 +2,7 @@
 
 This repository contains a collection of beginner-friendly C programs designed to build foundational programming skills. Each file in this repo demonstrates a basic concept or utility in C programming, such as arithmetic operations, data type usage, swapping logic, and conversions.
 
-## 📁 Folder Structure
-
+## 📁 Basics
 | Filename              | Description                                           |
 |-----------------------|-------------------------------------------------------|
 | `acsii value.c`       | Displays the ASCII value of a given character         |
