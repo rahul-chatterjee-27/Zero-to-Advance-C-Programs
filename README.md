@@ -3,6 +3,7 @@
 This repository contains a collection of beginner-friendly C programs designed to build foundational programming skills. Each file in this repo demonstrates a basic concept or utility in C programming, such as arithmetic operations, data type usage, swapping logic, and conversions.
 
 ## 📁 Basics
+
 | Filename              | Description                                           |
 |-----------------------|-------------------------------------------------------|
 | `acsii value.c`       | Displays the ASCII value of a given character         |
@@ -19,6 +20,12 @@ This repository contains a collection of beginner-friendly C programs designed t
 | `swapwithouttemp.c`   | Swaps two numbers without using a temporary variable  |
 | `swapwithtemp.c`      | Swaps two numbers using a temporary variable          |
 | `temp change.c`       | Converts temperature between Celsius and Fahrenheit   |
+
+## 📁 Conditions
+| Filename              | Description                                           |
+|-----------------------|-------------------------------------------------------|
+|        | |
+
 
 ## 💡 Purpose
 
