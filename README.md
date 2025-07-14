@@ -22,9 +22,14 @@ This repository contains a collection of beginner-friendly C programs designed t
 | `temp change.c`       | Converts temperature between Celsius and Fahrenheit   |
 
 ## 📁 Conditions
-| Filename              | Description                                           |
-|-----------------------|-------------------------------------------------------|
-|        | |
+| Filename           | Description                                                                                              |
+|--------------------|----------------------------------------------------------------------------------------------------------|
+| `calculator.c`     | Performs basic arithmetic operations (+, -, *, /, %) based on user input using switch.                   |
+| `evenodd.c`        | Takes an integer input and checks whether the number is even or odd using modulus operator.              |
+| `largestnumber.c`  | Compares three user-input numbers and prints the largest among them.                                     |
+| `posneg.c`         | Determines if a given number is positive, negative, or zero using conditional statements.                |
+| `profitloss.c`     | Calculates and displays whether the user made a profit, loss, or neither based on cost and selling price.|
+
 
 
 ## 💡 Purpose
