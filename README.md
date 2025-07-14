@@ -2,6 +2,31 @@
 
 This repository contains a collection of beginner-friendly C programs designed to build foundational programming skills. Each file in this repo demonstrates a basic concept or utility in C programming, such as arithmetic operations, data type usage, swapping logic, and conversions.
 
+📂 Folder Overview (C Programming)
+#Basic
+🔸 Simple C programs covering input/output, variables, and operators.
+#Array
+🔸 Programs on 1D and 2D arrays with insertion, deletion, and traversal logic.
+#Conditional
+🔸 if, else, nested if, and switch case-based decision-making examples.
+#Loop
+🔸 Usage of for, while, and do-while loops to solve repetitive tasks.
+#Function
+🔸 Covers user-defined functions, return types, and function calling mechanisms.
+#Pointer
+🔸 Programs to understand pointer basics, arithmetic, and pointer to pointer concepts.
+#Recursion
+🔸 Recursive solutions like factorial, sum of digits, and Fibonacci series.
+#String
+🔸 String handling using character arrays and standard functions like strlen, strcpy.
+#Logical
+🔸 Logical puzzles and pattern-printing programs for improving logic-building.
+#File Handling
+🔸 Working with files — reading, writing, and appending using file I/O functions.
+#Structure & Union
+🔸 Demonstrates usage of struct and union for handling complex data types.
+
+
 ## 📁 Basics
 
 | Filename              | Description                                           |
