@@ -1,3 +1,5 @@
+© 2025 Rahul Chatterjee. All rights reserved. Unauthorized use is prohibited.
+
 # 🧠 Basic C Programs
 
 A well-organized C programming collection with topic-wise folders covering basics, arrays, conditionals, loops, functions, pointers, strings, recursion, files, structures, and logic-building. This repository contains a collection of beginner-friendly C programs designed to build foundational programming skills. Each file in this repo demonstrates a basic concept or utility in C programming, such as arithmetic operations, data type usage, swapping logic, and conversions.
